@@ -1,0 +1,28 @@
+{
+  "name": "logogenerator",
+  "version": "1.0.0",
+  "description": "Generates a logo based off user input",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustFog36/logoGenerator.git"
+  },
+  "keywords": [
+    "logo",
+    "generator"
+  ],
+  "author": "Just F.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JustFog36/logoGenerator/issues"
+  },
+  "homepage": "https://github.com/JustFog36/logoGenerator#readme",
+  "dependencies": {
+    "fs-extra": "^11.1.1",
+    "inquirer": "^8.2.6"
+  }
+}
