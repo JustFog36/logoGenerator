@@ -4,7 +4,7 @@
   "description": "Generates a logo based off user input",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest",
     "start": "node index.js"
   },
   "repository": {
@@ -23,6 +23,7 @@
   "homepage": "https://github.com/JustFog36/logoGenerator#readme",
   "dependencies": {
     "fs-extra": "^11.1.1",
-    "inquirer": "^8.2.6"
+    "inquirer": "^8.2.6",
+    "jest": "^29.7.0"
   }
 }
