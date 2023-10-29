@@ -19,3 +19,6 @@ Generates a logo based off user input. The logo can include up to three colored 
 
 ## Example Logo
 <img src = "./img/Example.PNG">
+
+## Demonstration video
+You can watch the walkthrough of the app <a href = "https://drive.google.com/file/d/11oR9AkUp_hHlwk7icsLiFPqDgp9-mHWd/view">HERE</a>
